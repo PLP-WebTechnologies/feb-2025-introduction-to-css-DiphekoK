@@ -1,0 +1,33 @@
+/* Style using different selectors */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Style an image */
+.image-container img {
+    width: 300px;
+    border: 5px solid #333;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+/* Styling with ID */
+#header {
+    color: #fff;
+    background-color: #0077cc;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Styling with class */
+.paragraph {
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+    padding: 15px;
+    border: 2px dashed #777;
+}
